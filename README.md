@@ -35,14 +35,13 @@ The Customer Performance Dashboard provides stakeholders with clear, actionable 
 
 ### 📌 Overview Page
 
-![Customer Overview]()
+![Customer Overview](screenshot_3.png)
 
 ---
 
 ### 📌 Detailed Metrics Page
 
-![Detailed KPIs](screenshot_1.png 
-screenshot_2.png )
+![Detailed KPIs](screenshot_1.png,screenshot_2.png)
 
 ---
 
